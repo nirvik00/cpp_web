@@ -37,8 +37,8 @@ int main(){
     int x=c.sum(1, 3);
     std::cout << "sum is: " << x << "\n";
 
-    c.exp();
-    c.castFunc();
+    // c.exp();
+    // c.castFunc();
 
     /* Init oatpp Environment */
     oatpp::base::Environment::init();
