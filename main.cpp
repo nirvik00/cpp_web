@@ -18,7 +18,7 @@ public:
    * Handle incoming request and return outgoing response.
    */
   std::shared_ptr<OutgoingResponse> handle(const std::shared_ptr<IncomingRequest>& request) override {
-    return ResponseFactory::createResponse(Status::CODE_200, "Hello World from PW io!");
+    return ResponseFactory::createResponse(Status::CODE_200, "Hello World from PW io! - created by ns");
   }
 
 };
@@ -42,7 +42,7 @@ void run() {
   oatpp::network::Server server(connectionProvider, connectionHandler);
 
   /* Print info about server port */
-  OATPP_LOGI("MyApp", "Server running on port %s", connectionProvider->getProperty("port").getData());
+  OATPP_LOGI("cpp web server;", "Server running on port %s", connectionProvider->getProperty("port").getData());
 
   /* Run server */
   server.run();
