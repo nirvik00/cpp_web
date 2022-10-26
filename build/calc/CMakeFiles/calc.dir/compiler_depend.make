@@ -189,10 +189,116 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
-  /usr/include/x86_64-linux-gnu/bits/iscanonical.h
+  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/json.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/config.h \
+  /usr/include/c++/11/cstddef \
+  /usr/include/c++/11/memory \
+  /usr/include/c++/11/bits/stl_uninitialized.h \
+  /usr/include/c++/11/bits/stl_tempbuf.h \
+  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/11/bits/align.h \
+  /usr/include/c++/11/bit \
+  /usr/include/c++/11/bits/uses_allocator.h \
+  /usr/include/c++/11/bits/unique_ptr.h \
+  /usr/include/c++/11/utility \
+  /usr/include/c++/11/bits/stl_relops.h \
+  /usr/include/c++/11/tuple \
+  /usr/include/c++/11/array \
+  /usr/include/c++/11/bits/invoke.h \
+  /usr/include/c++/11/bits/shared_ptr.h \
+  /usr/include/c++/11/bits/shared_ptr_base.h \
+  /usr/include/c++/11/bits/allocated_ptr.h \
+  /usr/include/c++/11/bits/refwrap.h \
+  /usr/include/c++/11/ext/aligned_buffer.h \
+  /usr/include/c++/11/ext/concurrence.h \
+  /usr/include/c++/11/bits/shared_ptr_atomic.h \
+  /usr/include/c++/11/bits/atomic_base.h \
+  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/11/backward/auto_ptr.h \
+  /usr/include/c++/11/sstream \
+  /usr/include/c++/11/bits/sstream.tcc \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/allocator.h \
+  /usr/include/c++/11/cstring \
+  /usr/include/string.h \
+  /usr/include/strings.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/version.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/json_features.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/forwards.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/reader.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/value.h \
+  /usr/include/c++/11/map \
+  /usr/include/c++/11/bits/stl_tree.h \
+  /usr/include/c++/11/bits/stl_map.h \
+  /usr/include/c++/11/bits/stl_multimap.h \
+  /usr/include/c++/11/bits/erase_if.h \
+  /usr/include/c++/11/vector \
+  /usr/include/c++/11/bits/stl_vector.h \
+  /usr/include/c++/11/bits/stl_bvector.h \
+  /usr/include/c++/11/bits/vector.tcc \
+  /usr/include/c++/11/deque \
+  /usr/include/c++/11/bits/stl_deque.h \
+  /usr/include/c++/11/bits/deque.tcc \
+  /usr/include/c++/11/stack \
+  /usr/include/c++/11/bits/stl_stack.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/json/writer.h
 
+
+/usr/include/c++/11/bits/stl_stack.h:
+
+/usr/include/c++/11/bits/stl_deque.h:
+
+/usr/include/c++/11/bits/vector.tcc:
+
+/usr/include/c++/11/bits/stl_bvector.h:
+
+/usr/include/c++/11/bits/erase_if.h:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/value.h:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/json_features.h:
+
+/usr/include/string.h:
+
+/usr/include/c++/11/cstring:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/forwards.h:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/allocator.h:
+
+/usr/include/c++/11/sstream:
+
+/usr/include/c++/11/bits/shared_ptr_atomic.h:
+
+/usr/include/c++/11/bits/refwrap.h:
+
+/usr/include/c++/11/bits/stl_relops.h:
+
+/usr/include/c++/11/bits/uses_allocator.h:
+
+/usr/include/c++/11/vector:
+
+/usr/include/c++/11/bits/align.h:
+
+/usr/include/c++/11/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/11/backward/auto_ptr.h:
+
+/usr/include/c++/11/bits/stl_uninitialized.h:
+
+/usr/include/c++/11/memory:
+
+/usr/include/c++/11/array:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/config.h:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/json.h:
+
+/usr/include/c++/11/bits/stl_map.h:
 
 /usr/include/x86_64-linux-gnu/bits/iscanonical.h:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/writer.h:
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
 
@@ -224,11 +330,15 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/c++/11/bits/basic_ios.h:
 
+/usr/include/c++/11/bits/atomic_lockfree_defines.h:
+
 /usr/include/c++/11/bits/streambuf.tcc:
 
 /usr/include/c++/11/stdexcept:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h:
+
+/usr/include/c++/11/bits/stl_vector.h:
 
 /usr/include/c++/11/system_error:
 
@@ -254,6 +364,8 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
+/usr/include/c++/11/utility:
+
 /usr/include/errno.h:
 
 /usr/include/c++/11/cerrno:
@@ -270,7 +382,11 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
+/usr/include/c++/11/bits/shared_ptr.h:
+
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/c++/11/ext/aligned_buffer.h:
 
 /usr/include/endian.h:
 
@@ -312,11 +428,15 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
+/usr/include/c++/11/bit:
+
 /usr/include/c++/11/cstdlib:
 
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
+
+/usr/include/c++/11/bits/stl_tempbuf.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
@@ -338,6 +458,8 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
+/usr/include/c++/11/deque:
+
 /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
 /usr/include/c++/11/ios:
@@ -354,7 +476,11 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
+/usr/include/c++/11/bits/stl_multimap.h:
+
 /usr/include/features.h:
+
+/usr/include/c++/11/bits/atomic_base.h:
 
 /usr/include/c++/11/ext/numeric_traits.h:
 
@@ -384,7 +510,11 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
 
+/usr/include/c++/11/bits/unique_ptr.h:
+
 /usr/include/c++/11/ostream:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/json/reader.h:
 
 /usr/include/c++/11/bits/ostream_insert.h:
 
@@ -394,11 +524,17 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
 
+/usr/include/c++/11/stack:
+
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /usr/include/c++/11/bits/stl_function.h:
 
 /usr/include/stdc-predef.h:
+
+/usr/include/c++/11/map:
+
+/usr/include/c++/11/cstddef:
 
 /usr/include/c++/11/bits/range_access.h:
 
@@ -422,6 +558,8 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/c++/11/bits/postypes.h:
 
+/usr/include/c++/11/bits/invoke.h:
+
 /usr/include/x86_64-linux-gnu/bits/timex.h:
 
 /usr/include/c++/11/bits/exception_ptr.h:
@@ -439,6 +577,10 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
+
+/usr/include/c++/11/bits/stl_tree.h:
+
+/usr/include/c++/11/tuple:
 
 /usr/include/c++/11/type_traits:
 
@@ -488,6 +630,8 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
+/home/nirvik/vcpkg/installed/x64-linux/include/json/version.h:
+
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
@@ -505,6 +649,8 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
 
 /usr/include/c++/11/bits/ios_base.h:
+
+/usr/include/c++/11/ext/concurrence.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h:
 
@@ -528,13 +674,21 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
+/usr/include/c++/11/bits/allocated_ptr.h:
+
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
 /usr/include/c++/11/ext/new_allocator.h:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
+/usr/include/c++/11/bits/shared_ptr_base.h:
+
 /usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
+
+/usr/include/strings.h:
+
+/usr/include/c++/11/bits/sstream.tcc:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
 
@@ -549,6 +703,8 @@ calc/CMakeFiles/calc.dir/Calc.cpp.o: ../calc/Calc.cpp \
 /usr/include/c++/11/cmath:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
+
+/usr/include/c++/11/bits/deque.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/select.h:
 

@@ -88,9 +88,15 @@ calc_OBJECTS = \
 "CMakeFiles/calc.dir/Calc.cpp.o"
 
 # External object files for target calc
-calc_EXTERNAL_OBJECTS =
+calc_EXTERNAL_OBJECTS = \
+"/home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_reader.cpp.o" \
+"/home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_value.cpp.o" \
+"/home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_writer.cpp.o"
 
 calc/libcalc.a: calc/CMakeFiles/calc.dir/Calc.cpp.o
+calc/libcalc.a: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_reader.cpp.o
+calc/libcalc.a: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_value.cpp.o
+calc/libcalc.a: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_writer.cpp.o
 calc/libcalc.a: calc/CMakeFiles/calc.dir/build.make
 calc/libcalc.a: calc/CMakeFiles/calc.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/nirvik/dev/cpp2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libcalc.a"

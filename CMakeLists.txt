@@ -13,3 +13,8 @@ target_link_libraries(test PRIVATE calc)
 
 find_package(oatpp CONFIG REQUIRED)
 target_link_libraries(test PRIVATE oatpp::oatpp oatpp::oatpp-test)
+
+
+find_package(jsoncpp CONFIG REQUIRED)
+target_link_libraries(test PRIVATE jsoncpp_object jsoncpp_static JsonCpp::JsonCpp)
+

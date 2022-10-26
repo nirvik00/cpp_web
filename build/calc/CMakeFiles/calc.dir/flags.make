@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/nirvik/dev/cpp2/calc
+CXX_INCLUDES = -I/home/nirvik/dev/cpp2/calc -isystem /home/nirvik/vcpkg/installed/x64-linux/include
 
 CXX_FLAGS = -std=gnu++11
 

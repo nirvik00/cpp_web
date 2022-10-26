@@ -1,2 +1,2 @@
-/usr/bin/ar qc libcalc.a CMakeFiles/calc.dir/Calc.cpp.o
+/usr/bin/ar qc libcalc.a CMakeFiles/calc.dir/Calc.cpp.o /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_reader.cpp.o /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_value.cpp.o /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_writer.cpp.o
 /usr/bin/ranlib libcalc.a

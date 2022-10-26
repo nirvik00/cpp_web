@@ -88,14 +88,23 @@ test_OBJECTS = \
 "CMakeFiles/test.dir/main.cpp.o"
 
 # External object files for target test
-test_EXTERNAL_OBJECTS =
+test_EXTERNAL_OBJECTS = \
+"/home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_reader.cpp.o" \
+"/home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_value.cpp.o" \
+"/home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_writer.cpp.o"
 
 test: CMakeFiles/test.dir/main.cpp.o
+test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_reader.cpp.o
+test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_value.cpp.o
+test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/objects-Debug/jsoncpp_object/json_writer.cpp.o
 test: CMakeFiles/test.dir/build.make
 test: calc/libcalc.a
 test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/oatpp-1.3.0/liboatpp.a
 test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/oatpp-1.3.0/liboatpp-test.a
+test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/libjsoncpp.a
+test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/libjsoncpp.a
 test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/oatpp-1.3.0/liboatpp.a
+test: /home/nirvik/vcpkg/installed/x64-linux/debug/lib/libjsoncpp.a
 test: CMakeFiles/test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/nirvik/dev/cpp2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test.dir/link.txt --verbose=$(VERBOSE)

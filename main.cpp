@@ -10,6 +10,7 @@
 #include "Calc.h"
 
 #include "oatpp/core/macro/codegen.hpp"
+#include <vector>
 
 /* Begin DTO code-generation */
 #include OATPP_CODEGEN_BEGIN(DTO)
@@ -23,7 +24,6 @@ class MessageDto : public oatpp::DTO {
 
   DTO_FIELD(Int32, statusCode);   // Status code field
   DTO_FIELD(String, message);     // Message field
-
 };
 
 /**
@@ -92,6 +92,7 @@ int main(){
     Calc c;
     int x=c.sum(1, 3);
     std::cout << "sum is: " << x << "\n";
+    c.parseFunc();
 
     // c.exp();
     // c.castFunc();

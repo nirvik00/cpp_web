@@ -26,3 +26,21 @@ void Calc::castFunc(){
 
     std::cout << "books per month: " << perMonth << "\n";
 }
+
+void Calc::parseFunc(){
+    std::string text ="{ \"people\": [{\"id\": 1, \"name\":\"MIKE\",\"surname\":\"TAYLOR\"}, {\"id\": 2, \"name\":\"TOM\",\"surname\":\"JERRY\"} ]}";
+    Json::Value root;
+    Json::Reader reader;
+    bool parsingSuccessful = reader.parse( text, root );
+    if ( !parsingSuccessful )
+    {
+        std::cout << "Error parsing the string" << std::endl;
+    }
+
+    const Json::Value mynames = root["people"];
+
+    for ( int index = 0; index < mynames.size(); ++index )
+    {
+        std::cout << mynames[index] << std::endl;
+    }
+}
