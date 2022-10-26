@@ -11,6 +11,8 @@ double Calc::exp(){
     
     double ar = PI * pow(x, 3);
     std::cout << "exp of sum is: " << ar << "\n";
+
+    return ar;
 }
 
 void Calc::castFunc(){
