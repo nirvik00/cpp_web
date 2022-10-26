@@ -1,0 +1,6 @@
+/home/nirvik/dev/cpp2/build/CMakeFiles/test.dir
+/home/nirvik/dev/cpp2/build/CMakeFiles/edit_cache.dir
+/home/nirvik/dev/cpp2/build/CMakeFiles/rebuild_cache.dir
+/home/nirvik/dev/cpp2/build/calc/CMakeFiles/calc.dir
+/home/nirvik/dev/cpp2/build/calc/CMakeFiles/edit_cache.dir
+/home/nirvik/dev/cpp2/build/calc/CMakeFiles/rebuild_cache.dir
