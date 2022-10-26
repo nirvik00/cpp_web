@@ -189,19 +189,12 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpConnectionHandler.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpProcessor.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpRouter.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpRequestHandler.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/ResponseFactory.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Response.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Body.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/Http.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/network/tcp/Connection.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/stream/Stream.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/LazyStringMap.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/MemoryLabel.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Primitive.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/mapping/ObjectMapper.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/mapping/Serializer.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/Utils.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/Caret.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/Types.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Object.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Type.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/base/Countable.hpp \
   /usr/include/c++/11/memory \
@@ -252,6 +245,8 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/bits/stl_vector.h \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Any.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Primitive.hpp \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/bits/stl_algo.h \
   /usr/include/c++/11/bits/algorithmfwd.h \
@@ -259,22 +254,13 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/bits/uniform_int_dist.h \
   /usr/include/c++/11/iterator \
   /usr/include/c++/11/bits/stream_iterator.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Enum.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/MemoryLabel.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Primitive.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/utils/String.hpp \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/concurrency/SpinLock.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Coroutine.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Error.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/utils/FastQueue.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/IODefinitions.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Error.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/Types.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Object.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Any.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Primitive.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Enum.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/MemoryLabel.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/UnorderedMap.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Map.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/PairList.hpp \
@@ -284,11 +270,34 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/bits/unordered_set.h \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Vector.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/UnorderedSet.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/Beautifier.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/stream/Stream.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/LazyStringMap.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/MemoryLabel.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/concurrency/SpinLock.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Coroutine.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Error.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/utils/FastQueue.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/IODefinitions.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Error.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/buffer/IOBuffer.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/buffer/Processor.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/base/ObjectHandle.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/mapping/Deserializer.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/ObjectMapper.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Object.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Type.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/ParsingError.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpConnectionHandler.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpProcessor.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpRouter.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpRequestHandler.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/ResponseFactory.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Response.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Body.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/Http.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/network/tcp/Connection.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/CommunicationError.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/Caret.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/encoding/EncoderProvider.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/network/ConnectionHandler.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/provider/Provider.hpp \
@@ -296,10 +305,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/stream/BufferStream.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/stream/Stream.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/Bundle.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/ObjectMapper.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Object.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Type.hpp \
-  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/ParsingError.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Type.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Response.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/incoming/Request.hpp \
@@ -348,8 +353,14 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/network/ConnectionProvider.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/network/tcp/server/ConnectionProvider.hpp \
   /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/network/Address.hpp \
-  ../calc/Calc.h
+  ../calc/Calc.h \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/codegen/DTO_define.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/macro/basic.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/codegen/dto/base_define.hpp \
+  /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/codegen/dto/enum_define.hpp
 
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/codegen/dto/enum_define.hpp:
 
 ../calc/Calc.h:
 
@@ -403,15 +414,13 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/incoming/BodyDecoder.hpp:
 
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/ParsingError.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/ObjectMapper.hpp:
-
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/stream/BufferStream.hpp:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/provider/Invalidator.hpp:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/provider/Provider.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/codegen/DTO_define.hpp:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/network/ConnectionHandler.hpp:
 
@@ -419,11 +428,35 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/CommunicationError.hpp:
 
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Body.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Response.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/ResponseFactory.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpProcessor.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/ParsingError.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/ObjectMapper.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/mapping/Deserializer.hpp:
+
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/base/ObjectHandle.hpp:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/buffer/Processor.hpp:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/buffer/IOBuffer.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Error.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Coroutine.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/concurrency/SpinLock.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/LazyStringMap.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/stream/Stream.hpp:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/UnorderedSet.hpp:
 
@@ -435,23 +468,11 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/PairList.hpp:
 
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/Beautifier.hpp:
+
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/UnorderedMap.hpp:
 
-/usr/include/c++/11/map:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Enum.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/Types.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Error.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/async/Coroutine.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/concurrency/SpinLock.hpp:
-
 /usr/include/strings.h:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/utils/String.hpp:
 
 /usr/include/c++/11/bits/cxxabi_forced.h:
 
@@ -459,11 +480,11 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
+/usr/include/c++/11/map:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Enum.hpp:
+
 /usr/include/c++/11/backward/binders.h:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/Caret.hpp:
-
-/usr/include/c++/11/algorithm:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
 
@@ -478,6 +499,10 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
 
 /usr/include/c++/11/bit:
+
+/usr/include/c++/11/algorithm:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/parser/Caret.hpp:
 
 /usr/include/c++/11/bits/basic_string.h:
 
@@ -524,8 +549,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 /usr/include/locale.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Response.hpp:
 
 /usr/include/c++/11/bits/localefwd.h:
 
@@ -617,8 +640,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/ctime:
 
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/LazyStringMap.hpp:
-
 /usr/include/c++/11/ext/type_traits.h:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/interceptor/ResponseInterceptor.hpp:
@@ -653,6 +674,12 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/x86_64-linux-gnu/sys/single_threaded.h:
 
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpConnectionHandler.hpp:
+
+/usr/include/c++/11/cmath:
+
+/usr/include/c++/11/bits/allocator.h:
+
 /usr/include/c++/11/bits/char_traits.h:
 
 /usr/include/asm-generic/errno-base.h:
@@ -660,8 +687,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/base/Countable.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpProcessor.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
@@ -677,8 +702,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/bits/ostream_insert.h:
 
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/stream/Stream.hpp:
-
 /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
@@ -690,6 +713,8 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/codegen/dto/base_define.hpp:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
@@ -759,8 +784,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/streambuf:
 
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/ResponseFactory.hpp:
-
 /usr/include/c++/11/iosfwd:
 
 /usr/include/c++/11/initializer_list:
@@ -784,10 +807,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11/bits/stl_iterator_base_funcs.h:
 
 /usr/include/c++/11/clocale:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Any.hpp:
-
-/usr/include/c++/11/bits/ostream.tcc:
 
 /usr/include/stdlib.h:
 
@@ -820,6 +839,10 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
 /usr/include/c++/11/cerrno:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/Http.hpp:
+
+/usr/include/errno.h:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
@@ -863,10 +886,6 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/stdexcept:
 
-/usr/include/string.h:
-
-/usr/include/c++/11/bits/streambuf.tcc:
-
 /usr/include/c++/11/bits/atomic_lockfree_defines.h:
 
 /usr/include/c++/11/bits/uniform_int_dist.h:
@@ -891,17 +910,13 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/bits/locale_facets.tcc:
 
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/mapping/Serializer.hpp:
+
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/utils/CommunicationUtils.hpp:
 
 /usr/include/c++/11/istream:
 
 /usr/include/c++/11/bits/istream.tcc:
-
-/usr/include/c++/11/cstring:
-
-/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
-
-/usr/include/math.h:
 
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
 
@@ -915,37 +930,19 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpRouter.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
 /usr/include/c++/11/bits/postypes.h:
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
 
-/usr/include/c++/11/cmath:
+/usr/include/c++/11/bits/stl_raw_storage_iter.h:
 
-/usr/include/c++/11/bits/allocator.h:
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/mapping/ObjectMapper.hpp:
 
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpConnectionHandler.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/server/HttpRouter.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/outgoing/Body.hpp:
-
-/usr/include/c++/11/condition_variable:
-
-/usr/include/c++/11/thread:
-
-/usr/include/c++/11/ratio:
-
-/usr/include/errno.h:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/web/protocol/http/Http.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/time64.h:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/MemoryLabel.hpp:
-
-/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Primitive.hpp:
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/Types.hpp:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Type.hpp:
 
@@ -953,9 +950,9 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/bits/stl_uninitialized.h:
 
-/usr/include/c++/11/backward/auto_ptr.h:
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/parser/json/Utils.hpp:
 
-/usr/include/c++/11/bits/stl_raw_storage_iter.h:
+/usr/include/c++/11/backward/auto_ptr.h:
 
 /usr/include/c++/11/bits/align.h:
 
@@ -976,6 +973,18 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11/bits/parse_numbers.h:
 
 /home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/base/Environment.hpp:
+
+/usr/include/c++/11/condition_variable:
+
+/usr/include/c++/11/thread:
+
+/usr/include/c++/11/ratio:
+
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/math.h:
+
+/usr/include/c++/11/cstring:
 
 /usr/include/c++/11/limits:
 
@@ -1011,8 +1020,24 @@ CMakeFiles/test.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/bits/vector.tcc:
 
+/usr/include/c++/11/bits/ostream.tcc:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Any.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/utils/String.hpp:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/mapping/type/Primitive.hpp:
+
 /usr/include/c++/11/bits/algorithmfwd.h:
 
 /usr/include/c++/11/bits/std_abs.h:
 
 /usr/include/c++/11/bits/stl_heap.h:
+
+/usr/include/x86_64-linux-gnu/bits/time64.h:
+
+/home/nirvik/vcpkg/installed/x64-linux/include/oatpp-1.3.0/oatpp/oatpp/core/data/share/MemoryLabel.hpp:
+
+/usr/include/c++/11/bits/streambuf.tcc:
+
+/usr/include/string.h:
