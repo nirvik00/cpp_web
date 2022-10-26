@@ -8,12 +8,29 @@
 
 #include "Calc.h"
 
+/** 
+ * Custom Request Handler
+ */
+class Handler : public oatpp::web::server::HttpRequestHandler {
+public:
+
+  /**
+   * Handle incoming request and return outgoing response.
+   */
+  std::shared_ptr<OutgoingResponse> handle(const std::shared_ptr<IncomingRequest>& request) override {
+    return ResponseFactory::createResponse(Status::CODE_200, "Hello World from PW io!");
+  }
+
+};
 
 
 void run() {
 
   /* Create Router for HTTP requests routing */
   auto router = oatpp::web::server::HttpRouter::createShared();
+
+   /* Route GET - "/hello" requests to Handler */
+  router->route("GET", "/hello", std::make_shared<Handler>());
 
   /* Create HTTP connection handler with router */
   auto connectionHandler = oatpp::web::server::HttpConnectionHandler::createShared(router);
@@ -32,7 +49,7 @@ void run() {
 }
 
 int main(){
-    std::cout << "hello world!\n";
+    std::cout << "hello world from PW io!\n";
     Calc c;
     int x=c.sum(1, 3);
     std::cout << "sum is: " << x << "\n";
